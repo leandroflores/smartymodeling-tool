@@ -15,3 +15,7 @@ SMartyModeling is available for free using according to Creative Commons 4.0 lic
 To run SMartyModeling, you need use Java 8 (<https://www.java.com/pt_BR/download/faq/java8.xml>):
 
 $ java -jar SMartyModeling.jar
+
+
+The compiled classes is available at https://github.com/leandroflores/smartymodeling
+The source code is available at https://github.com/leandroflores/smartymodeling-code
